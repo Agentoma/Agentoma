@@ -82,7 +82,7 @@ Accomplished **Program Manager** with deep expertise in **computer development**
 ### 🎓 Education & Certifications
 
 **York University - Schulich School of Business**
-- Master of Management in Analytics & AI (MMAI) - *In Progress*
+- Master of Management in Analytics & AI (MMAI) - *Completed April 2025*
 - Specializations: Natural Language Processing, Deep Learning, Computer Vision
 
 **Key Focus Areas:**
