@@ -13,7 +13,9 @@
 
 ### 💼 About Me
 
-Accomplished **Program Manager** with deep expertise in **computer development** and **infrastructure management**. I specialize in creating AI-powered automation solutions that solve real-world problems. Currently pursuing **Master's in Management Analytics & AI** at York University's Schulich School of Business.
+Accomplished **Program Manager** with deep expertise in **computer development** and **infrastructure management**. I specialize in creating AI-powered automation solutions that solve real-world problems. **MMAI graduate, York University (2025)** — Master of Management in Artificial Intelligence, Schulich School of Business.
+
+Projects live in [@aoma-labs](https://github.com/aoma-labs) · Personal profile: [@adriel-o](https://github.com/adriel-o)
 
 **🎯 What I Do:**
 - 🤖 Develop browser-based AI automation tools (Chrome extensions, HARPA AI workflows)
@@ -54,7 +56,6 @@ Accomplished **Program Manager** with deep expertise in **computer development**
 #### 🎯 **AI Automation & Browser Extensions**
 - **[Ultimate AI Wrapper](https://github.com/Agentoma/ultimate-ai-wrapper)** - Universal Chrome extension for AI integration
 - **[Gmail Automate](https://github.com/Agentoma/gmail-automate)** - Local AI-powered email automation (100% privacy-focused)
-- **[HARPA AI Enhanced PARA System](https://github.com/Agentoma/harpa-ai-enhanced-para-system)** - Job hunting & productivity automation
 
 #### 🧠 **Machine Learning & NLP**
 - **[Sentiment Analysis System](https://github.com/Agentoma/sentiment-analysis-mmai5400-a2)** - Restaurant review analysis with TF-IDF
@@ -63,10 +64,8 @@ Accomplished **Program Manager** with deep expertise in **computer development**
 
 #### 📊 **Data Science & Analytics**
 - **[Portfolio Showcase](https://github.com/Agentoma/AdrielomPortfolio)** - Streamlit app showcasing ML projects
-- **[AI Conversation Analyzer](https://github.com/Agentoma/ai-conversation-analyzer)** - ChatGPT conversation analytics
 
 #### 🔧 **Development Tools**
-- **[File Review Automation](https://github.com/Agentoma/file-review-automation)** - AI-powered file structure optimization
 - **[Resume Matcher](https://github.com/Agentoma/Resume-Matcher)** - AI resume-job matching system
 
 ---
@@ -82,7 +81,7 @@ Accomplished **Program Manager** with deep expertise in **computer development**
 ### 🎓 Education & Certifications
 
 **York University - Schulich School of Business**
-- Master of Management in Analytics & AI (MMAI) - *Completed April 2025*
+- Master of Management in Artificial Intelligence (MMAI) - *Graduated 2025*
 - Specializations: Natural Language Processing, Deep Learning, Computer Vision
 
 **Key Focus Areas:**
