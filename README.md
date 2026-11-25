@@ -13,7 +13,7 @@
 
 ### 💼 About Me
 
-Accomplished **Program Manager** with deep expertise in **computer development** and **infrastructure management**. I specialize in creating AI-powered automation solutions that solve real-world problems. **MMAI graduate, York University (2025)** — Master of Management in Artificial Intelligence, Schulich School of Business.
+Accomplished **Program Manager** with deep expertise in **computer development** and **infrastructure management**. I specialize in creating AI-powered automation solutions that solve real-world problems. **MMAI, York University Schulich** — Master of Management in Artificial Intelligence.
 
 Projects live in [@aoma-labs](https://github.com/aoma-labs) · Personal profile: [@adriel-o](https://github.com/adriel-o)
 
@@ -81,7 +81,7 @@ Projects live in [@aoma-labs](https://github.com/aoma-labs) · Personal profile:
 ### 🎓 Education & Certifications
 
 **York University - Schulich School of Business**
-- Master of Management in Artificial Intelligence (MMAI) - *Graduated 2025*
+- Master of Management in Artificial Intelligence (MMAI)
 - Specializations: Natural Language Processing, Deep Learning, Computer Vision
 
 **Key Focus Areas:**
